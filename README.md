@@ -1,2 +1,2 @@
 # cloud-assignment
-my first repository 
+my first repository with a sample file.
